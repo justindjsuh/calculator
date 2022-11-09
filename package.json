@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator using JavaScript, HTML, and CSS",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justindjsuh/calculator.git"
+  },
+  "author": "Justin Suh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justindjsuh/calculator/issues"
+  },
+  "homepage": "https://github.com/justindjsuh/calculator#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
